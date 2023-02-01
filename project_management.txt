@@ -1,0 +1,33 @@
+Here are some technologies you can use to extract people's opinions about different products and analyze them:
+    1. Web scraping: You can use web scraping techniques to extract relevant data from websites such as product review sites, social media platforms, and forums.
+    2. Natural language processing (NLP): You can use NLP techniques to process the text data you have extracted and extract meaningful information such as opinions, sentiments, and topics. Some popular NLP techniques include sentiment analysis, topic modeling, and named entity recognition.
+    3. Machine learning: You can use machine learning algorithms such as supervised learning and unsupervised learning to analyze the opinions you have extracted. For example, you can use supervised learning algorithms such as logistic regression, decision trees, and support vector machines to classify opinions into positive, negative, and neutral categories. You can also use unsupervised learning algorithms such as clustering and dimensionality reduction to identify patterns and relationships in the data.
+    4. Data visualization: You can use data visualization techniques to present the results of your analysis in a clear and understandable way. For example, you can use bar charts, pie charts, and heat maps to visualize the distribution of opinions and sentiments.
+To perform these tasks, you can use programming languages such as Python, which has a large number of libraries for web scraping, NLP, machine learning, and data visualization. You will also need to have a basic understanding of these technologies and how they can be applied to the problem of opinion analysis.
+
+
+IDEAS  OF WEB SCRAPPING TECHNIQUES:
+
+1. Another example of legal web scraping could be extracting real estate data from a real estate website, such as Zillow or Redfin, in order to build a real estate market analysis tool or to recommend properties to buyers or renters.
+For example, a real estate market analysis tool might use web scraping to extract real estate data, such as property listings, prices, location, and photos, and display it in a user-friendly format. The tool might also use the data to analyze real estate market trends, such as the average home price in a particular area, or to recommend properties based on a user's preferences and budget.
+
+2. Another example of legal web scraping could be extracting weather data from a government weather website, such as the National Weather Service (NWS), in order to build a weather forecasting app or to analyze historical weather patterns.
+For example, a weather forecasting app might use web scraping to extract real-time weather data, such as temperature, precipitation, wind speed, and humidity, and display it in a user-friendly format.
+3. Extracting news articles from a news website, such as CNN or BBC, in order to build a news aggregator or to analyze public opinion on a particular topic.
+    1. Extracting sports statistics from a sports website, such as ESPN or Yahoo Sports, in order to build a fantasy sports app or to analyze player performance.
+    2. Extracting stock market data from a financial website, such as Yahoo Finance or Google Finance, in order to build a stock tracking app or to analyze market trends.
+    3. Extracting flight information from a travel website, such as Expedia or Kayak, in order to build a flight booking app or to analyze airfare prices.
+    4. Extracting product information from an e-commerce website, such as Amazon or eBay, in order to build a price comparison app or to analyze market trends and sales.
+
+LIST OF SITES FOR WEB SCRAPPING :
+    • amazon
+    • zalando
+    • asos
+    • twitter
+    • facebook 
+    • instagram
+    • trustpilot
+    • yelp
+    • reddit
+    • quora
+      
