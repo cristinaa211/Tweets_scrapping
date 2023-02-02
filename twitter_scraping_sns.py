@@ -11,9 +11,11 @@ def twitter_scraping_sns(query, no_tweets):
     return tweets
 
 if __name__ == '__main__':
-    query = 'musk'
+    query = 'biden'
     no_tweets = 10000
-    tweets = twitter_scraping_sns(query, no_tweets)
-    for tweet in tweets:
-        connect_mongodb.insert_data_mongodb(document_to_insert=tweet)
+    tweets_biden = twitter_scraping_sns(query, no_tweets)
+    print('I am scraping tweets of trump now.')
+    tweets_trump = twitter_scraping_sns('trump', no_tweets)
+    connect_mongodb.insert_data_mongodb( collection_name='joe_biden',document_to_insert=tweets_biden)
+    connect_mongodb.insert_data_mongodb( collection_name='donald_trump',document_to_insert=tweets_trump)
     print('Done')

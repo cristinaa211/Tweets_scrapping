@@ -1,12 +1,39 @@
-from selenium import webdriver
+import time
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver import Firefox
 from selenium.webdriver.common.by import By
 
+def login_twitter_scrap_tweets(username = '@CristinaPopov19', password = 'p0p0v1c11', email = 'popovici.cristina21@yahoo.com', query = '', tweets = 0):
+    driver = Firefox()
+    driver.get('https://twitter.com/login')
+    xpath_username = '/html/body/div/div/div/div[1]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/div[5]/label/div/div[2]/div/input'
+    time.sleep(5)
+    username = driver.find_element(By.XPATH, xpath_username).send_keys(username)
+    driver.find_element(By.XPATH, '/html/body/div/div/div/div[1]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/div[6]/div/span/span').click()
+    time.sleep(5)
+    password_xpath = '/html/body/div/div/div/div[1]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[1]/div/div/div[3]/div/label/div/div[2]/div[1]/input'
+    driver.find_element(By.XPATH, password_xpath).send_keys(password)
+    time.sleep(3)
+    driver.find_element(By.XPATH, '/html/body/div/div/div/div[1]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[2]/div/div[1]/div/div/div/div/span/span').click()
+    time.sleep(3)
+    try:
+        if driver.find_element(By.XPATH, '//input[@inputmode="email"]'):
+            driver.find_element(By.XPATH, '//input[@inputmode="email"]').send_keys(email)
+            time.sleep(3)
+            driver.find_element(By.XPATH, '/html/body/div[1]/div/div/div[1]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[2]/div/div/div/div/div/span/span').click()
+    except:pass
+    time.sleep(3)
+    try:
+        if driver.find_element(By.CSS_SELECTOR, '.r-16l9doz > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > img:nth-child(2)'):
+            driver.find_element(By.CSS_SELECTOR, 'div.r-s8bhmr:nth-child(1) > div:nth-child(1) > div:nth-child(1) > svg:nth-child(1)').send_keys(Keys.ENTER)
+    except: pass
+    driver.find_element(By.XPATH, '//input[@aria-label="Search query"]').send_keys(query).send_keys(Keys.ENTER)
+    time.sleep(3)
+    driver.find_element(By.XPATH, '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[1]/div[1]/div[2]/nav/div/div[2]/div/div[2]/a/div/div/span').send_keys(Keys.ENTER)
+    tweets_list = [driver.find_element(By.XPATH, '//div[@testid="tweetText"]')  for _ in range(tweets)]
+    time.sleep(3)
+    driver.close()
+    return tweets_list
 
 if __name__ == '__main__':
-    browser = Firefox()
-    browser.get('https://twitter.com/login')
-    username = browser.find_element(By.XPATH,'//input[@class="r-30o5oe r-1niwhzg r-17gur6a r-1yadl64 r-deolkf r-homxoj r-poiln3 r-7cikom r-1ny4l3l r-t60dpp r-1dz5y72 r-fdjqy7 r-13qz1uu"]')
-    username.send_keys('popovici.cristina1221@gmail.com')
-    username.send_keys(Keys.RETURN)
+    login_twitter_scrap_tweets(query='python', tweets=11)

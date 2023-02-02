@@ -13,7 +13,9 @@ tweetpy = "^1.0.4"
 tk = "^0.1.0"
 snscrape = "^0.5.0"
 pymongo = "^4.3.3"
-selenium = "^4.8.0"
+selenium = "3.141"
+msedge-selenium-tools = "^3.141.4"
+waiting = "^1.4.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
