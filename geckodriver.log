@@ -3053,3 +3053,5 @@ JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Pha
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
 JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.d8d84d1a.js, line 1: Error: ApiError: https://api.twitter.com/1.1/help/settings.json HTTP-401 codes:[32] trace_ids:[null]
+1675344607597	Marionette	INFO	Stopped listening on port 33913
+1675344608710	Marionette	INFO	Stopped listening on port 42717
