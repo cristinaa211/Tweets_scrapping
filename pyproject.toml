@@ -21,6 +21,8 @@ textblob = "^0.17.1"
 polyglot = "^16.7.4"
 icu = "^0.0.1"
 langdetect = "^1.0.9"
+sklearn = "^0.0.post2"
+scikit-learn = "^1.2.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"

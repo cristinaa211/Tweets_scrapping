@@ -6,6 +6,7 @@ from langdetect import detect
 import re
 
 def detect_language_tweet(tweet):
+    language = 'english'
     languages = ['hungarian',
                 'swedish',
                 'kazakh',
@@ -30,10 +31,12 @@ def detect_language_tweet(tweet):
                 'russian',
                 'french',
                 'italian']
-    language = detect(tweet)
-    language = [lang for lang in languages if language in lang[:2]]
-    if language == []:
-        language = 'english'
+    try:
+        language = detect(tweet)
+        language = [lang for lang in languages if language in lang[:2]]
+        if language == []:
+            language = 'english'
+    except : pass
     return language
 
 def remove_emojis(data):
@@ -62,19 +65,22 @@ def preprocessing_text(sentence):
     clean_sentence = sentence.lower()
     clean_sentence = ' '.join(clean_sentence.splitlines())
     clean_sentence = re.sub(r'http\S+', '', clean_sentence)
+    clean_sentence = re.sub(r'@\S+', '', clean_sentence)
     clean_sentence = remove_emojis(clean_sentence)
     clean_sentence = clean_sentence.translate(str.maketrans(' ', ' ', string.punctuation))
+    clean_sentence   = clean_sentence.translate(str.maketrans("", "", "0123456789"))
     language = detect_language_tweet(clean_sentence)
     stop_words = stopwords.words(language)
+    stop_words.extend(['elon', 'musk', 'twitter'])
     tokens = word_tokenize(clean_sentence)
-    clean_sentence_list = ''.join([word for word in tokens if word not in stop_words and len(word) > 2])
+    clean_sentence_list = ' '.join([word for word in tokens if word not in stop_words and len(word) > 2 and word != '  ' ])
     return clean_sentence_list
 
-def nlp_pipeline(raw_text):
+def nlp_processing(raw_text):
     date = [raw_text_ind['date'] for raw_text_ind in raw_text]
     usernames = [raw_text_ind['username'] for raw_text_ind in raw_text]
     tweets = [raw_text_ind['content'] for raw_text_ind in raw_text]
-    clean_tweets = [preprocessing_text(tweet) for tweet in tweets ]
+    clean_tweets = [preprocessing_text(tweet) for tweet in tweets if len(tweet) > 1 ]
     return date, usernames, clean_tweets
 
 
