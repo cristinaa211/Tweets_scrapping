@@ -61,7 +61,7 @@ def remove_emojis(data):
         u"\u3030" "]+", re.UNICODE)
     return re.sub(emoj, ' ', data)
 
-def preprocessing_text(sentence):
+def preprocessing_text(sentence, stopwords_extra_list = ['elon', 'musk', 'twitter']):
     clean_sentence = sentence.lower()
     clean_sentence = ' '.join(clean_sentence.splitlines())
     clean_sentence = re.sub(r'http\S+', '', clean_sentence)
@@ -71,7 +71,7 @@ def preprocessing_text(sentence):
     clean_sentence   = clean_sentence.translate(str.maketrans("", "", "0123456789"))
     language = detect_language_tweet(clean_sentence)
     stop_words = stopwords.words(language)
-    stop_words.extend(['elon', 'musk', 'twitter'])
+    stop_words.extend(stopwords_extra_list)
     tokens = word_tokenize(clean_sentence)
     clean_sentence_list = ' '.join([word for word in tokens if word not in stop_words and len(word) > 2 and word != '  ' ])
     return clean_sentence_list

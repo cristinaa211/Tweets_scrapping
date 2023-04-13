@@ -38,7 +38,7 @@ def apply_bertopic(data, dates, model_path, model_name):
         pickle.dump(topic_model, f, protocol=pickle.HIGHEST_PROTOCOL)
     return topics, representative_docs
 
-def sentiment_analysis_pipeline(query, no_tweets, vectorizer_name, model_name):
+def text_analysis_pipeline(query, no_tweets, vectorizer_name, model_name):
     raw_tweets = extract_tweets(query, no_tweets)
     connect_mongodb.insert_data_mongodb( collection_name= 'tweets_{query}'.format(query) ,document_to_insert=raw_tweets)
     raw_text = connect_mongodb.read_from_db('tweets_wsc', 'tweets_{query}'.format(query))
