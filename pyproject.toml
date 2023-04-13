@@ -16,9 +16,18 @@ pymongo = "^4.3.3"
 selenium = "3.141"
 msedge-selenium-tools = "^3.141.4"
 waiting = "^1.4.1"
+nltk = "^3.8.1"
+textblob = "^0.17.1"
+polyglot = "^16.7.4"
+icu = "^0.0.1"
+langdetect = "^1.0.9"
+sklearn = "^0.0.post2"
+scikit-learn = "^1.2.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
+jupyter = "^1.0.0"
+notebook = "^6.5.2"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

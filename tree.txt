@@ -1,0 +1,345 @@
+.
+├─private_account_followers_locked_accounts
+│    ├─private_followers_account_public_tweets
+│    │    ├─followers_viral_yesterday_count_private
+│    │    │    ├─■──followers_count_viral_merge_abonnés ── Topic: 23
+│    │    │    └─■──followers_private_profiles_conjunto_cleanup ── Topic: 117
+│    │    └─private_tweets_account_public_mode
+│    │         ├─private_tweets_public_mode_see
+│    │         │    ├─■──private_public_mode_privates_privada ── Topic: 19
+│    │         │    └─■──private_tweets_retweet_tweet_mode ── Topic: 15
+│    │         └─■──private_account_accounts_making_set ── Topic: 67
+│    └─account_locked_lock_locking_locks
+│         ├─account_delete_please_back_accounts
+│         │    ├─■──account_delete_please_indefinidamente_ayudame ── Topic: 29
+│         │    └─■──account_tags_locking_unlocked_locked ── Topic: 154
+│         └─locked_lock_account_malfunction_locks
+│              ├─locked_lock_account_malfunction_locks
+│              │    ├─■──account_locked_malfunction_locks_lock ── Topic: 58
+│              │    └─■──locked_lock_exclamation_mot_lease ── Topic: 89
+│              └─■──locked_violated_account_rank_tweak ── Topic: 172
+└─see_back_one_people_free
+     ├─tweet_retweet_see_tweets_seen
+     │    ├─tweet_retweet_tweets_see_seen
+     │    │    ├─tweet_tweets_see_seen_saw
+     │    │    │    ├─see_saw_one_bisi_elsewhere
+     │    │    │    │    ├─■──saw_saintelon_berenson_elsewhere_alex ── Topic: 167
+     │    │    │    │    └─see_one_bisi_saw_onedoes
+     │    │    │    │         ├─■──one_see_saw_spain_onedoes ── Topic: 43
+     │    │    │    │         └─■──see_bisi_anagrams_read_understood ── Topic: 18
+     │    │    │    └─tweet_tweets_seen_see_seeing
+     │    │    │         ├─tweet_tweets_seen_see_seeing
+     │    │    │         │    ├─■──seeing_seen_invisible_light_sees ── Topic: 24
+     │    │    │         │    └─tweet_tweets_seen_first_see
+     │    │    │         │         ├─■──seen_first_tweet_tweets_weeks ── Topic: 28
+     │    │    │         │         └─■──tweet_tweets_see_tweeter_tweeted ── Topic: 4
+     │    │    │         └─■──protected_tweets_visibilité_twitter_purchase ── Topic: 105
+     │    │    └─retweet_cant_unavailable_retweets_retweetable
+     │    │         ├─■──retweet_retweetable_retweets_rewrite_wish ── Topic: 25
+     │    │         └─■──retweet_cant_unavailable_geretweet_horribly ── Topic: 87
+     │    └─you_still_mine_deepstate_keep
+     │         ├─■──still_deepstate_keep_you_active ── Topic: 49
+     │         └─you_are_mine_out_interesante
+     │              ├─■──you_вас_вижу_ghosts_see ── Topic: 170
+     │              └─■──you_are_mine_out_nasılsın ── Topic: 108
+     └─back_free_people_speech_like
+          ├─welcome_back_thank_sidney_thanks
+          │    ├─thank_thanks_děkuji_gracias_mike
+          │    │    ├─■──thank_gracias_puff_obrigada_killuah ── Topic: 151
+          │    │    └─■──thanks_thank_mike_sir_belowthefold ── Topic: 79
+          │    └─welcome_back_sidney_glad_patriot
+          │         ├─■──sidney_welcome_back_powell_sur ── Topic: 166
+          │         └─■──welcome_back_patriot_glad_tsla ── Topic: 10
+          └─free_people_speech_like_drugs
+               ├─free_people_speech_like_drugs
+               │    ├─drugs_russia_war_ukraine_drug
+               │    │    ├─drugs_drug_fentanyl_gender_trans
+               │    │    │    ├─drugs_drug_fentanyl_gender_trans
+               │    │    │    │    ├─gender_trans_child_definition_children
+               │    │    │    │    │    ├─■──vaccine_vaccinated_vaccination_virus_react ── Topic: 68
+               │    │    │    │    │    └─gender_trans_child_definition_children
+               │    │    │    │    │         ├─■──gender_trans_child_children_women ── Topic: 7
+               │    │    │    │    │         └─■──definition_gun_mass_shooting_rifle ── Topic: 55
+               │    │    │    │    └─drugs_drug_fentanyl_legal_addicts
+               │    │    │    │         ├─■──drugs_drug_fentanyl_addicts_legal ── Topic: 2
+               │    │    │    │         └─■──jails_surgery_petty_deal_homelessness ── Topic: 102
+               │    │    │    └─government_economy_recession_tax_unelected
+               │    │    │         ├─■──economy_recession_tax_autres_enrichir ── Topic: 119
+               │    │    │         └─■──government_unelected_constitution_wef_federal ── Topic: 128
+               │    │    └─russia_ukraine_war_russian_truth
+               │    │         ├─truth_journalism_news_journalists_time
+               │    │         │    ├─■──time_history_years_year_ago ── Topic: 11
+               │    │         │    └─truth_journalism_news_journalists_democrats
+               │    │         │         ├─■──democrats_republicans_president_election_obama ── Topic: 5
+               │    │         │         └─truth_journalism_news_journalists_media
+               │    │         │              ├─■──truth_bias_data_fact_lie ── Topic: 12
+               │    │         │              └─■──journalism_news_journalists_media_journalist ── Topic: 13
+               │    │         └─russia_ukraine_war_russian_nato
+               │    │              ├─■──russia_ukraine_russian_war_nato ── Topic: 3
+               │    │              └─■──war_peace_wars_weapons_handshake ── Topic: 39
+               │    └─speech_free_lol_like_fix
+               │         ├─starlink_solar_batteries_nigeria_nuclear
+               │         │    ├─solar_batteries_nuclear_energy_wind
+               │         │    │    ├─solar_batteries_energy_battery_wind
+               │         │    │    │    ├─■──batteries_battery_energy_solar_charge ── Topic: 51
+               │         │    │    │    └─■──solar_wind_panels_farms_hydro ── Topic: 113
+               │         │    │    └─■──nuclear_reactors_fusion_nuke_fission ── Topic: 99
+               │         │    └─starlink_nigeria_africa_internet_roku
+               │         │         ├─■──starlink_roku_directv_drop_sonora ── Topic: 104
+               │         │         └─■──nigeria_starlink_africa_broadband_nigerian ── Topic: 88
+               │         └─speech_free_lol_fix_like
+               │              ├─satan_language_god_talk_know
+               │              │    ├─language_violence_violent_words_english
+               │              │    │    ├─■──language_languages_english_words_overseas ── Topic: 135
+               │              │    │    └─■──violence_violent_language_words_offensive ── Topic: 60
+               │              │    └─satan_god_know_talk_shit
+               │              │         ├─satan_hell_british_satans_satanic
+               │              │         │    ├─■──hell_radawesome_principal_soultion_infinity ── Topic: 155
+               │              │         │    └─■──satan_british_satanic_satans_lives ── Topic: 61
+               │              │         └─know_talk_god_shit_hope
+               │              │              ├─hope_shit_know_fuck_missed
+               │              │              │    ├─fuck_shit_shut_bad_fucked
+               │              │              │    │    ├─■──fuck_bad_shit_fucked_ass ── Topic: 14
+               │              │              │    │    └─■──shut_stop_away_quit_leave ── Topic: 33
+               │              │              │    └─hope_know_missed_knew_angry
+               │              │              │         ├─missed_going_coming_talked_wondering
+               │              │              │         │    ├─■──missed_talked_forgot_yesterday_destiny ── Topic: 107
+               │              │              │         │    └─■──going_coming_постоянно_stairs_överallt ── Topic: 66
+               │              │              │         └─hope_know_knew_angry_didnt
+               │              │              │              ├─know_knew_whats_didnt_dont
+               │              │              │              │    ├─■──know_knew_fundaments_wam_wamaa ── Topic: 72
+               │              │              │              │    └─■──whats_didnt_dont_happened_cat ── Topic: 41
+               │              │              │              └─hope_angry_anger_depression_column
+               │              │              │                   ├─■──angry_anger_depression_column_anxiety ── Topic: 50
+               │              │              │                   └─■──hope_chance_plan_revote_tempt ── Topic: 85
+               │              │              └─talk_god_common_sense_christian
+               │              │                   ├─talk_god_christian_muslim_talking
+               │              │                   │    ├─■──god_christian_muslim_bless_christ ── Topic: 17
+               │              │                   │    └─talk_talking_real_mean_spoken
+               │              │                   │         ├─■──talk_talking_spoken_discuss_tricky ── Topic: 75
+               │              │                   │         └─■──real_mean_really_asterisks_dues ── Topic: 92
+               │              │                   └─friends_common_sense_passed_friend
+               │              │                        ├─■──friends_friend_acquaintances_anciliary_ephemeral ── Topic: 150
+               │              │                        └─■──common_sense_logic_best_quota ── Topic: 157
+               │              └─speech_free_fix_truck_doge
+               │                   ├─fix_fired_job_employees_bro
+               │                   │    ├─fix_fired_job_employees_fire
+               │                   │    │    ├─fired_job_employees_fire_code
+               │                   │    │    │    ├─fired_job_employees_code_sabotage
+               │                   │    │    │    │    ├─■──sabotage_rogue_employees_internal_saboteurs ── Topic: 83
+               │                   │    │    │    │    └─fired_job_code_employees_staff
+               │                   │    │    │    │         ├─■──fired_job_employees_staff_hire ── Topic: 6
+               │                   │    │    │    │         └─■──code_coding_jenga_engineers_tower ── Topic: 63
+               │                   │    │    │    └─fire_funny_humor_joke_idea
+               │                   │    │    │         ├─fire_funny_humor_joke_jokes
+               │                   │    │    │         │    ├─■──funny_humor_joke_jokes_hilarious ── Topic: 27
+               │                   │    │    │         │    └─■──fire_burn_ignition_firefighters_sanitized ── Topic: 93
+               │                   │    │    │         └─■──idea_models_proposal_troubleshooting_interesting ── Topic: 120
+               │                   │    │    └─fix_broke_rebuild_toll_fixed
+               │                   │    │         ├─■──fix_toll_fixed_fixing_knew ── Topic: 48
+               │                   │    │         └─■──broke_rebuild_break_yikes_resetbreak ── Topic: 140
+               │                   │    └─bro_wow_lmao_views_congrats
+               │                   │         ├─bro_lmao_weird_lil_site
+               │                   │         │    ├─■──weird_anlayamadım_bizarro_ليش_böyle ── Topic: 134
+               │                   │         │    └─bro_lmao_lil_site_ratios
+               │                   │         │         ├─■──bro_lil_patching_pretoria_beefing ── Topic: 110
+               │                   │         │         └─■──lmao_crazying_whys_lmaoooo_legit ── Topic: 161
+               │                   │         └─wow_views_congrats_yup_brilliant
+               │                   │              ├─views_difference_verified_mentions_inv
+               │                   │              │    ├─■──views_verified_mentions_inv_dosnt ── Topic: 142
+               │                   │              │    └─■──difference_tune_probably_not_apparently ── Topic: 163
+               │                   │              └─wow_congrats_yup_brilliant_awesome
+               │                   │                   ├─■──yup_wow_woot_heh_hmmmmm ── Topic: 30
+               │                   │                   └─congrats_brilliant_awesome_congratulations_amazing
+               │                   │                        ├─■──brilliant_awesome_amazing_great_thread ── Topic: 44
+               │                   │                        └─■──congratulations_congrats_बह_beautiful_ईस ── Topic: 133
+               │                   └─speech_free_truck_doge_via
+               │                        ├─speech_free_truck_doge_via
+               │                        │    ├─truck_white_black_video_ugly
+               │                        │    │    ├─truck_white_black_ugly_agreed
+               │                        │    │    │    ├─white_black_agreed_racist_agree
+               │                        │    │    │    │    ├─agreed_agree_herd_bull_better
+               │                        │    │    │    │    │    ├─■──nope_nothing_اينڊرائيڊ_آھي_آئي ── Topic: 80
+               │                        │    │    │    │    │    └─agreed_agree_herd_bull_better
+               │                        │    │    │    │    │         ├─agreed_agree_better_approach_alternative
+               │                        │    │    │    │    │         │    ├─■──agreed_agree_agreeeed_agreeing_accomplished ── Topic: 70
+               │                        │    │    │    │    │         │    └─■──better_approach_alternative_оригинал_agrees ── Topic: 137
+               │                        │    │    │    │    │         └─■──herd_bull_goats_goat_culling ── Topic: 62
+               │                        │    │    │    │    └─white_black_racist_paint_supremacy
+               │                        │    │    │    │         ├─■──black_paint_color_interior_fragrance ── Topic: 122
+               │                        │    │    │    │         └─■──white_racist_black_supremacy_racism ── Topic: 38
+               │                        │    │    │    └─truck_ugly_cybertruck_trucks_vehicle
+               │                        │    │    │         ├─■──ugly_hässlich_hideously_ruler_balding ── Topic: 132
+               │                        │    │    │         └─truck_cybertruck_trucks_vehicle_car
+               │                        │    │    │              ├─■──car_sideways_seat_driver_parking ── Topic: 131
+               │                        │    │    │              └─truck_cybertruck_trucks_vehicle_trailer
+               │                        │    │    │                   ├─■──truck_trucks_suv_trailer_vehicle ── Topic: 22
+               │                        │    │    │                   └─■──cybertruck_production_police_cybertrucks_retired ── Topic: 162
+               │                        │    │    └─video_life_videos_meme_cool
+               │                        │    │         ├─meme_cool_nice_beautiful_streets
+               │                        │    │         │    ├─streets_junkies_cost_price_town
+               │                        │    │         │    │    ├─■──cost_price_expensive_retail_modis ── Topic: 156
+               │                        │    │         │    │    └─■──streets_junkies_town_everywhere_look ── Topic: 165
+               │                        │    │         │    └─meme_cool_nice_beautiful_looks
+               │                        │    │         │         ├─meme_cool_nice_beautiful_looks
+               │                        │    │         │         │    ├─■──meme_memes_memesforthepeople_arguments_malo ── Topic: 121
+               │                        │    │         │         │    └─nice_cool_beautiful_looks_good
+               │                        │    │         │         │         ├─■──cool_nice_good_longterm_honestyou ── Topic: 35
+               │                        │    │         │         │         └─■──beautiful_looks_pretty_ees_softness ── Topic: 74
+               │                        │    │         │         └─■──deleted_delete_accorto_eppure_ladro ── Topic: 171
+               │                        │    │         └─video_life_videos_sport_live
+               │                        │    │              ├─exactly_absolutely_social_overpopulation_straightforward
+               │                        │    │              │    ├─■──social_overpopulation_whyd_compartmentalization_socially ── Topic: 169
+               │                        │    │              │    └─■──exactly_absolutely_straightforward_definitive_somewhat ── Topic: 126
+               │                        │    │              └─video_life_videos_sport_live
+               │                        │    │                   ├─video_life_videos_live_youtube
+               │                        │    │                   │    ├─■──video_videos_youtube_tiktok_audio ── Topic: 59
+               │                        │    │                   │    └─■──life_live_matas_perfect_kill ── Topic: 42
+               │                        │    │                   └─sport_team_lfg_lmfao_trust
+               │                        │    │                        ├─sport_team_trust_confidence_sports
+               │                        │    │                        │    ├─■──sport_team_confidence_sports_likely ── Topic: 98
+               │                        │    │                        │    └─■──trust_trusted_govt_espionage_grandmother ── Topic: 149
+               │                        │    │                        └─■──lfg_lmfao_books_lmfaoo_gmgm ── Topic: 141
+               │                        │    └─speech_free_doge_mars_via
+               │                        │         ├─doge_mars_via_bots_opensea
+               │                        │         │    ├─climate_change_science_scientific_world
+               │                        │         │    │    ├─climate_science_scientific_method_experiment
+               │                        │         │    │    │    ├─■──scientific_experiment_method_science_regarder ── Topic: 76
+               │                        │         │    │    │    └─■──climate_science_weather_adherence_overview ── Topic: 158
+               │                        │         │    │    └─change_world_humanity_save_launch
+               │                        │         │    │         ├─launch_telescope_finish_first_second
+               │                        │         │    │         │    ├─■──launch_telescope_finish_first_unfinished ── Topic: 153
+               │                        │         │    │         │    └─■──just_second_take__ ── Topic: 0
+               │                        │         │    │         └─change_world_humanity_save_conspiracy
+               │                        │         │    │              ├─change_world_save_conspiracy_theorist
+               │                        │         │    │              │    ├─■──change_name_cyrusthegreat_birth_quick ── Topic: 146
+               │                        │         │    │              │    └─■──world_save_conspiracy_theorist_brain ── Topic: 78
+               │                        │         │    │              └─■──humanity_sensitive_america_potential_baby ── Topic: 125
+               │                        │         │    └─doge_mars_via_bots_opensea
+               │                        │         │         ├─doge_mars_via_bots_opensea
+               │                        │         │         │    ├─owner_lauds_ahead_hearing_republican
+               │                        │         │         │    │    ├─■──owner_corporate_mba_dueño_companies ── Topic: 114
+               │                        │         │         │    │    └─■──lauds_ahead_hearing_republican_key ── Topic: 147
+               │                        │         │         │    └─doge_mars_via_bots_opensea
+               │                        │         │         │         ├─doge_mars_via_bots_opensea
+               │                        │         │         │         │    ├─mars_bots_opensea_via_bitcoin
+               │                        │         │         │         │    │    ├─mars_bots_bitcoin_testing_wrong
+               │                        │         │         │         │    │    │    ├─mars_fbi_ratio_space_spacex
+               │                        │         │         │         │    │    │    │    ├─fbi_sound_coverup_decamp_feds
+               │                        │         │         │         │    │    │    │    │    ├─■──sound_headley_album_hear_sadsorry ── Topic: 91
+               │                        │         │         │         │    │    │    │    │    └─■──fbi_coverup_decamp_feds_min ── Topic: 97
+               │                        │         │         │         │    │    │    │    └─mars_ratio_space_spacex_think
+               │                        │         │         │         │    │    │    │         ├─mars_space_spacex_backdoor_access
+               │                        │         │         │         │    │    │    │         │    ├─mars_space_spacex_jordan_rocket
+               │                        │         │         │         │    │    │    │         │    │    ├─■──mars_jordan_starship_planet_vacuum ── Topic: 32
+               │                        │         │         │         │    │    │    │         │    │    └─■──spacex_space_exploration_ceo_letsgo ── Topic: 77
+               │                        │         │         │         │    │    │    │         │    └─backdoor_door_access_search_typically
+               │                        │         │         │         │    │    │    │         │         ├─■──backdoor_access_door_moved_ruckus ── Topic: 168
+               │                        │         │         │         │    │    │    │         │         └─■──search_typically_find_κάτι_βρει ── Topic: 143
+               │                        │         │         │         │    │    │    │         └─ratio_right_think_reaction_games
+               │                        │         │         │         │    │    │    │              ├─right_think_games_game_correct
+               │                        │         │         │         │    │    │    │              │    ├─■──right_correct_razón_sketchy_pila ── Topic: 94
+               │                        │         │         │         │    │    │    │              │    └─think_games_game_thought_guess
+               │                        │         │         │         │    │    │    │              │         ├─■──think_guess_cares_nearer_lests ── Topic: 40
+               │                        │         │         │         │    │    │    │              │         └─■──games_game_play_perfect_reckon ── Topic: 159
+               │                        │         │         │         │    │    │    │              └─ratio_reaction_post_comments_ratioed
+               │                        │         │         │         │    │    │    │                   ├─■──reaction_post_comments_comment_limits ── Topic: 82
+               │                        │         │         │         │    │    │    │                   └─■──ratio_rahhhhhhh_soo_ratiod_ratioed ── Topic: 144
+               │                        │         │         │         │    │    │    └─bots_bitcoin_testing_bot_wrong
+               │                        │         │         │         │    │    │         ├─bitcoin_million_lost_bet_tesla
+               │                        │         │         │         │    │    │         │    ├─■──hate_hates_odeio_odio_eso ── Topic: 111
+               │                        │         │         │         │    │    │         │    └─bitcoin_million_lost_bet_tesla
+               │                        │         │         │         │    │    │         │         ├─arnault_billionaire_billion_money_richest
+               │                        │         │         │         │    │    │         │         │    ├─■──hes_pip_centaur_hecho_τον ── Topic: 8
+               │                        │         │         │         │    │    │         │         │    └─■──arnault_billionaire_billion_money_richest ── Topic: 16
+               │                        │         │         │         │    │    │         │         └─■──bitcoin_million_lost_bet_teco ── Topic: 71
+               │                        │         │         │         │    │    │         └─bots_testing_bot_test_wrong
+               │                        │         │         │         │    │    │              ├─bots_testing_bot_test_algorithm
+               │                        │         │         │         │    │    │              │    ├─testing_test_seal_brazil_gold
+               │                        │         │         │         │    │    │              │    │    ├─■──brazil_seal_obtain_brasil_gold ── Topic: 130
+               │                        │         │         │         │    │    │              │    │    └─■──testing_test_check_production_beta ── Topic: 21
+               │                        │         │         │         │    │    │              │    └─bots_bot_algorithm_algorithmen_die
+               │                        │         │         │         │    │    │              │         ├─bots_bot_algorithm_algorithmen_die
+               │                        │         │         │         │    │    │              │         │    ├─■──bots_bot_covid_teamelon_teamearth ── Topic: 26
+               │                        │         │         │         │    │    │              │         │    └─■──algorithm_algorithmen_algorithms_die_hat ── Topic: 47
+               │                        │         │         │         │    │    │              │         └─■──fault_problem_trouble_insiderthreat_dilemma ── Topic: 136
+               │                        │         │         │         │    │    │              └─wrong_fundamental_fundamentally_wake_ona
+               │                        │         │         │         │    │    │                   ├─■──wrong_fundamentally_fundamental_something_mistake ── Topic: 46
+               │                        │         │         │         │    │    │                   └─■──wake_ona_woke_nie_poza ── Topic: 148
+               │                        │         │         │         │    │    └─opensea_via_emerge_item_churning
+               │                        │         │         │         │    │         ├─■──opensea_item_listing_bhromatto_eth ── Topic: 127
+               │                        │         │         │         │    │         └─■──emerge_churning_stomach_clips_disavows ── Topic: 109
+               │                        │         │         │         │    └─doge_button_payment_app_hello
+               │                        │         │         │         │         ├─button_app_edit_tab_dislike
+               │                        │         │         │         │         │    ├─■──translate_translation_türkçe_traduire_aujourdhui ── Topic: 118
+               │                        │         │         │         │         │    └─button_app_edit_tab_dislike
+               │                        │         │         │         │         │         ├─■──button_edit_tab_dislike_click ── Topic: 36
+               │                        │         │         │         │         │         └─■──app_samsung_update_google_development ── Topic: 53
+               │                        │         │         │         │         └─doge_payment_hello_payments_dogecoin
+               │                        │         │         │         │              ├─doge_payment_payments_dogecoin_omega
+               │                        │         │         │         │              │    ├─■──payment_omega_payments_paypal_crypto ── Topic: 20
+               │                        │         │         │         │              │    └─■──doge_dogecoin_dog_puppy_dogs ── Topic: 37
+               │                        │         │         │         │              └─hello_pic_profile_hey_photos
+               │                        │         │         │         │                   ├─■──hello_hey_hooman_sweetie_hola ── Topic: 73
+               │                        │         │         │         │                   └─■──pic_profile_photos_screenshots_girls ── Topic: 103
+               │                        │         │         │         └─birds_feed_bird_scone_garbage
+               │                        │         │         │              ├─birds_feed_bird_scone_two
+               │                        │         │         │              │    ├─■──birds_bird_scone_two_feed ── Topic: 31
+               │                        │         │         │              │    └─■──feed_shortages_milk_food_popped ── Topic: 95
+               │                        │         │         │              └─garbage_true_ads_marketing_publicity
+               │                        │         │         │                   ├─garbage_ads_marketing_publicity_trash
+               │                        │         │         │                   │    ├─■──ads_marketing_publicity_och_adds ── Topic: 90
+               │                        │         │         │                   │    └─■──garbage_trash_garbagein_garbageout_recycling ── Topic: 152
+               │                        │         │         │                   └─■──true_very_confirmed_confirm_huge ── Topic: 96
+               │                        │         │         └─love_taco_bell_kraken_shells
+               │                        │         │              ├─taco_bell_kraken_shells_seashells
+               │                        │         │              │    ├─taco_bell_shells_seashells_sea
+               │                        │         │              │    │    ├─■──taco_bell_win_franchise_restaurants ── Topic: 123
+               │                        │         │              │    │    └─■──seashells_shells_sea_three_use ── Topic: 54
+               │                        │         │              │    └─kraken_cest_wait_buy_release
+               │                        │         │              │         ├─wait_buy_argentina_purchase_waiting
+               │                        │         │              │         │    ├─■──buy_argentina_purchase_friday_kits ── Topic: 64
+               │                        │         │              │         │    └─■──wait_waiting_haisvzrqugiumhpjhqdbcckffpiszrcnzvesu_vintage_rca ── Topic: 139
+               │                        │         │              │         └─kraken_cest_release_hai_sup
+               │                        │         │              │              ├─■──kraken_release_waiting_promised_happened ── Topic: 101
+               │                        │         │              │              └─■──cest_hai_sup_وليد_icu ── Topic: 1
+               │                        │         │              └─love_lol_jail_brother_appeal
+               │                        │         │                   ├─jail_appeal_mail_send_criminals
+               │                        │         │                   │    ├─■──appeal_mail_send_requests_asking ── Topic: 81
+               │                        │         │                   │    └─■──jail_criminals_prosecute_lawyer_sidney ── Topic: 106
+               │                        │         │                   └─love_lol_brother_loved_duh
+               │                        │         │                        ├─love_brother_daddy_loved_loves
+               │                        │         │                        │    ├─■──brother_daddy_mother_ablamm_maluko ── Topic: 69
+               │                        │         │                        │    └─■──love_loved_loves_alive_madly ── Topic: 45
+               │                        │         │                        └─lol_duh_sweet_lucky_joy
+               │                        │         │                             ├─lol_duh_sweet_lucky_joy
+               │                        │         │                             │    ├─■──lucky_joy_luck_tanzanian_mutlu ── Topic: 124
+               │                        │         │                             │    └─■──lol_duh_sweet_call_didn ── Topic: 52
+               │                        │         │                             └─■──gotcha_vamp_prez_jason_arnold ── Topic: 160
+               │                        │         └─speech_free_shadow_banned_censorship
+               │                        │              ├─shadow_banned_banning_bans_shadowbanning
+               │                        │              │    ├─■──banned_robinson_tommy_banning_sanitation ── Topic: 112
+               │                        │              │    └─■──shadow_banning_banned_shadowbanning_ban ── Topic: 34
+               │                        │              └─speech_free_censorship_snowflake_freedom
+               │                        │                   ├─speech_free_censorship_freedom_suppression
+               │                        │                   │    ├─■──censorship_censoring_censored_censor_bleu ── Topic: 86
+               │                        │                   │    └─speech_free_freedom_suppression_words
+               │                        │                   │         ├─■──speech_free_freedom_suppression_words ── Topic: 9
+               │                        │                   │         └─■──freenft_charmorigins_flatearthmoney_freetommyrobinson_freebrittanyventi ── Topic: 138
+               │                        │                   └─snowflake_nazi_fascists_nazis_snowflakes
+               │                        │                        ├─■──nazi_nazis_fascists_fascist_admit ── Topic: 129
+               │                        │                        └─■──snowflake_snowflakes_sweepstakes_mountainofbusch_misinterpretation ── Topic: 145
+               │                        └─follow_evening_good_back_tho
+               │                             ├─■──follow_tho_magenta_damus_likenessapply ── Topic: 84
+               │                             └─■──evening_follow_good_back_tarde ── Topic: 164
+               └─blue_yes_yep_check_indeed
+                    ├─blue_check_checkmark_marks_mark
+                    │    ├─■──blue_check_checkmark_marks_mark ── Topic: 65
+                    │    └─■──blue_kasih_color_pra_pruebas ── Topic: 115
+                    └─yes_yep_indeed_definitely_well
+                         ├─yes_indeed_definitely_sure_certainly
+                         │    ├─■──indeed_definitely_yes_sure_certainly ── Topic: 56
+                         │    └─■──yes_einstein_downhill_cvrp_works ── Topic: 57
+                         └─yep_well_yeah_todellakin_uhm
+                              ├─■──well_nshss_yeterli_yep_başına ── Topic: 116
+                              └─■──yep_yeah_uhm_todellakin_oui ── Topic: 100
