@@ -3,7 +3,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver import Firefox
 from selenium.webdriver.common.by import By
 
-def login_twitter_scrap_tweets(username = '@CristinaPopov19', password = '', email = '', query = '', tweets = 0):
+def login_twitter_scrap_tweets(username = '', password = '', email = '', query = '', tweets = 0):
     driver = Firefox()
     driver.get('https://twitter.com/login')
     xpath_username = '/html/body/div/div/div/div[1]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/div[5]/label/div/div[2]/div/input'
