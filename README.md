@@ -14,4 +14,4 @@ In the current folder, in the terminal enter "poetry shell" to initialize the vi
 To add libraries to the virtual env press "poetry add library_name"
 
 
-get_content.py is the main web scraping script
+web_scraping_get_content.py is the main web scraping script

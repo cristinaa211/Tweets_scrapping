@@ -1,10 +1,10 @@
 import pymongo 
 
 def connect_client():
-    return pymongo.MongoClient("mongodb+srv://cristina211:passw0rd@cluster0.x5mxh5d.mongodb.net/test")
+    return pymongo.MongoClient("")
 
 
-def insert_data_mongodb(database_name = 'tweets_wsc', collection_name = 'tweets_m', document_to_insert = {}):
+def insert_data_mongodb(database_name = '', collection_name = '', document_to_insert = {}):
     client = connect_client()
     db = client[database_name]
     collection = db[collection_name]
