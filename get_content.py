@@ -15,7 +15,8 @@ def web_scraping(list_of_urls, headers):
 
 if __name__ == '__main__':
     headers={'User-Agent': 'Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405'}
-    search_query = 'musk'
-    url_realpython = 'https://realpython.com/python-web-scraping-practical-introduction/'
-    url = [url_realpython]
+    url_user = input("Please specify an url that allows web scraping: ")
+    search_query = input("Please provide with a search query:")
+    url = [url_user]
     things = web_scraping(url, headers=headers)
+
