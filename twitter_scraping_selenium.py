@@ -36,4 +36,9 @@ def login_twitter_scrap_tweets(username = '', password = '', email = '', query =
     return tweets_list
 
 if __name__ == '__main__':
-    login_twitter_scrap_tweets(query='python', tweets=11)
+    username = input("Twitter username : ")
+    password = input("Twitter password: ")
+    email = input("Twitter email: ")
+    query = input("Twitter search query: ")
+    no_tweets = input("Number of tweets required: ")
+    login_twitter_scrap_tweets(username = str(username), password = str(password), email = str(email), query = str(query), tweets = int(no_tweets))

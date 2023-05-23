@@ -5,6 +5,9 @@ from nltk.corpus import stopwords
 from langdetect import detect
 import re
 
+'''
+Main script for natural language processing preprocessing - language detection, text cleaning'''
+
 def detect_language_tweet(tweet):
     language = 'english'
     languages = ['hungarian',

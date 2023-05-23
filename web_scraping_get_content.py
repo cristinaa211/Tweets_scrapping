@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup as bs 
-
+import pandas as pd 
 
 def web_scraping(list_of_urls, headers):
     for url_link in list_of_urls:
@@ -18,5 +18,7 @@ if __name__ == '__main__':
     url_user = input("Please specify an url that allows web scraping: ")
     search_query = input("Please provide with a search query:")
     url = [url_user]
-    things = web_scraping(url, headers=headers)
+    content = web_scraping(url, headers=headers)
+    content_dataframe = pd.DataFrame(content)
+    content_csv = content_dataframe.to_csv("./content_{}".format(search_query))
 
