@@ -3,7 +3,7 @@
 WEB SCRAPING 
 
 In this repository you can find functions for web scraping, based on a search query. The found content is saved in a csv format file. Note that not all sites allow web scraping, so you should check it first. 
-This repository also contains functions for downloading tweets for text analysis, text preprocessing and topic labelling using BERTopic. 
+This repository also contains functions for downloading tweets for text analysis.
 
 
 Environment preparing
